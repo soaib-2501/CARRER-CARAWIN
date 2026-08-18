@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Career Carawin</string>
+    <string name="title_activity_main">Career Carawin</string>
+    <string name="package_name">com.carawintech.career</string>
+    <string name="custom_url_scheme">com.carawintech.career</string>
+</resources>
